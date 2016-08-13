@@ -1,0 +1,162 @@
+/* CSS Document */
+@media only screen and (min-width: 768px) and (max-width: 1600px) {
+
+textArea
+{
+max-width:300px;
+min-width:300px;
+}
+}
+
+@media only screen  and (max-width: 480px) {
+
+textArea
+{
+max-width:150px;
+min-width:150px;
+}
+
+}
+
+@media only screen  and (max-width: 720px) {
+
+textArea
+{
+max-width:150px;
+min-width:150px;
+}
+}
+.examples1
+{
+float:left; width:40%;
+padding-left:30px; 
+margin-top:20px;
+font-family: "ralewayregular" !important;
+font-size: 13px !important;
+padding: 17px;
+text-indent: 28px;
+}
+.examples2
+{
+font-family: "ralewayregular" !important;
+font-size: 13px !important;
+padding: 17px;
+float:left; width:40%; 
+margin-top:20px;
+}
+.examples3
+{
+font-family: "ralewayregular" !important;
+font-size: 13px !important;
+padding: 17px;
+text-indent: 28px;
+float:left; 
+width:20%; 
+margin-top:20px; 
+}
+.editfieldsdiv
+{
+font-family: "ralewayregular" !important;
+font-size: 13px !important;
+padding: 17px;
+margin-top:-10px !important;
+}
+
+.editfieldsdiv{ display:none; }
+.editfields input, select, textarea {
+    margin: 10px 0;
+    text-align: left;
+    width: 100%;
+}
+.editfields select {
+padding:10px;
+}
+
+.feedbackoverlay {
+  left: 57%;
+    position: absolute;
+    top: 76%;
+	display:none;
+}
+.editfields .errormsg{ color:#FF0000; }
+
+.timepicker1.input-small {
+    float: left;
+    width: 80px;
+	margin: 0;
+}
+
+.bootstrap-timepicker-widget.dropdown-menu.open {
+  display: inline-block;
+  z-index:1151;
+}
+.bootstrap-timepicker {
+    display: table;
+	float:left;
+}
+.bootstrap-timepicker .add-on {
+    border: 1px solid #CCCCCC;
+    box-shadow: 1px 1px 3px #CCCCCC;
+    float: left;
+    height: 40px !important;
+    padding: 11px 3px !important;
+    text-align: center;
+    width: 22px;
+}
+.bootstrap-timepicker .add-on i{ float:left; }
+.cke_skin_kama .cke_editor {
+    display: table;
+    width: 100%;
+}
+#page .ui-icon {
+    display: block;
+}
+.required
+{
+ color:#FF0000;
+}
+.editfieldsdiv{ display:none; }
+.editfields input, select, textarea {
+    margin: 10px 0;
+    text-align: left;
+    width: 100%;
+}
+.editfields select {
+padding:10px;
+}
+
+.feedbackoverlay {
+  left: 57%;
+    position: absolute;
+    top: 76%;
+	display:none;
+}
+.editfields .errormsg{ color:#FF0000; }
+
+.timepicker1.input-small {
+    float: left;
+    width: 80px;
+	margin: 0;
+}
+.bootstrap-timepicker {
+    display: table;
+	float:left;
+}
+.bootstrap-timepicker .add-on {
+    border: 1px solid #CCCCCC;
+    box-shadow: 1px 1px 3px #CCCCCC;
+    float: left;
+    height: 40px !important;
+    padding: 11px 3px !important;
+    text-align: center;
+    width: 22px;
+}
+.bootstrap-timepicker .add-on i{ float:left; }
+.cke_skin_kama .cke_editor {
+    display: table;
+    width: 100%;
+}
+#page .ui-icon {
+    display: block;
+}
+
